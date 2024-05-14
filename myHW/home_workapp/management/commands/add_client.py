@@ -1,8 +1,8 @@
 from django.core.management.base import BaseCommand
 
 
-from myHW.home_workapp.models import *
-# from User.models import *
+from home_workapp.models import *
+
 
 
 name = input('Введите имя клиента: ')
